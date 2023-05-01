@@ -2,7 +2,7 @@
 Created by: Graham Twente
 
 ## Data
-One dataset is made available for this project from UVA's Miller Center. The file millerSpeeches.json contains 1,031 speeches. This dataset is not complete as some presidential speeches are missing. The most recent version of the dataset is available at this (link)[https://millercenter.org/sites/default/files/corpus/presidential-speeches.json]. The dataset contains the following features.
+One dataset is made available for this project from UVA's Miller Center. The file millerSpeeches.json contains 1,031 speeches. This dataset is not complete as some presidential speeches are missing. The most recent version of the dataset is available at this [link](https://millercenter.org/sites/default/files/corpus/presidential-speeches.json). The dataset contains the following features.
 
 |Column Name|Definition              |Data Type      | 
 |-----------|------------------------|---------------|
