@@ -18,7 +18,7 @@ The document DS4002CS2_SpeechTopicHook
 The document DS4002CS2_SpeechTopicHRubric
 
 ## Materials
-The materials folder contains supplemental documents to orient students to topic modeling. First, the blog post "Topic Modelling no.10's speeches" by Christopher Lovell contains an introduction to topic modeliing and an explanation of the Latent Dirichlet Allocation (LDA) technique [1]. This document also contains examples of interpreting topics and suggestions relating to relevance and lambda parameters to adjust the relatve frequence of a word in a topic.
+The materials folder contains supplemental documents to orient students to topic modeling. First, the blog post "Topic Modelling no.10's speeches" by Christopher Lovell contains an introduction to topic modeliing and an explanation of the Latent Dirichlet Allocation (LDA) technique [1]. This document also contains examples of interpreting topics and suggestions relating to relevance and lambda parameters to adjust the relatve frequency of a word in a topic.
 
 Second, the conference proceeding, "More Efficient Topic Modelling Through a Noun Only Approach" by Fiona Martin and Mark Johnson detail the benefits of lemmatising and limiting a corpus to nouns only [2]. The study finds this method provides improved topic semantic coherence and and reduced time to generate the topic model.
 
