@@ -12,10 +12,10 @@ One dataset is made available for this project from UVA's Miller Center. The fil
 |Transcript     |The text of the speech                                  |String       |
 
 ## Hook
-The document DS4002CS2_SpeechTopicHook 
+The document DS4002CS2_SpeechTopicHook creates a scenario for the student to engage with data science.
 
 ## Rubric
-The document DS4002CS2_SpeechTopicHRubric
+The document DS4002CS2_SpeechTopicHRubric explains the purpose, tasks, and criteria with which students will be evaluated.
 
 ## Materials
 The materials folder contains supplemental documents to orient students to topic modeling. First, the blog post "Topic Modelling no.10's speeches" by Christopher Lovell contains an introduction to topic modeliing and an explanation of the Latent Dirichlet Allocation (LDA) technique [1]. This document also contains examples of interpreting topics and suggestions relating to relevance and lambda parameters to adjust the relatve frequency of a word in a topic.
