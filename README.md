@@ -12,10 +12,10 @@ One dataset is made available for this project from UVA's Miller Center. The fil
 |Transcript     |The text of the speech                                  |String       |
 
 ## Hook
-
+The document DS4002CS2_SpeechTopicHook 
 
 ## Rubric
-
+The document DS4002CS2_SpeechTopicHRubric
 
 ## Materials
 The materials folder contains supplemental documents to orient students to topic modeling. First, the blog post "Topic Modelling no.10's speeches" by Christopher Lovell contains an introduction to topic modeliing and an explanation of the Latent Dirichlet Allocation (LDA) technique [1]. This document also contains examples of interpreting topics and suggestions relating to relevance and lambda parameters to adjust the relatve frequence of a word in a topic.
