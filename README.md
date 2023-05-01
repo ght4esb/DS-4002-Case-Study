@@ -6,7 +6,7 @@ One dataset is made available for this project from UVA's Miller Center. The fil
 
 |Column Name|Definition              |Data Type      | 
 |-----------|------------------------|---------------|
-|Title |Title of the speech                                                   |String         |
+|Title |The title of the speech                                                   |String         |
 |Date |The date the president delivered the speech                            |Datetime       |
 |President     |The president who delivered the speech                                  |String       |
 |Transcript     |The text of the speech                                  |String       |
